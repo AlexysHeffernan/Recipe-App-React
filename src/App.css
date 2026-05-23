@@ -98,7 +98,7 @@ tbody td:nth-child(5) {
   width: 27%;
 }
 tbody tr:nth-child(odd) {
-  background-color: #fff0c7;
+  background-color: #c7fff0;
 }
 
 td img {
