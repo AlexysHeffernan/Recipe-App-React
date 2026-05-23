@@ -45,6 +45,12 @@ td {
   
 }
 
+/* Center only last column */
+tbody td:nth-child(6),
+thead th:nth-child(6) {
+  text-align: center;
+}
+
 /* table */
 
 table {
